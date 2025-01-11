@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "sector": "dedetização",
+        "title": "Dedetização geral",
+        "description": "Aplicação de técnicas combinadas, como pulverização, gel, iscas e barreiras químicas, para controlar e eliminar diversas pragas urbanas, garantindo proteção completa e ambientes seguros.",
+        "image": "https://lagosdedetizadora.com.br/assets/2222/images/barata_eliminada.png"
+    },
+    {
+        "id": 2,
+        "sector": "controle-de-pragas",
+        "title": "Descupinização",
+        "description": "Uso de barreiras químicas, injeção de produtos em madeira ou armadilhas específicas para eliminar e prevenir a infestação de cupins.",
+        "image": "https://lagosdedetizadora.com.br/assets/2222/images/controle_cupim_2.png"
+    },
+    {
+        "id": 3,
+        "sector": "controle-de-pragas",
+        "title": "Desratização",
+        "description": "Controle de roedores com armadilhas, iscas e barreiras físicas para eliminar ratos e camundongos.",
+        "image": "https://lagosdedetizadora.com.br/assets/2222/images/controle_de_rato.png"
+    },
+    {
+        "id": 4,
+        "sector": "controle-de-pragas",
+        "title": "Controle de mosquitos",
+        "description": "Focado na eliminação de criadouros e pulverização de áreas externas para controle de mosquitos transmissores de doenças, como o Aedes aegypti.",
+        "image": "../image/dengue-full.png"
+    },
+    {
+        "id": 5,
+        "sector": "sanitização",
+        "title": "Sanitização de ambientes",
+        "description": "Processo de desinfecção e higienização para eliminar microrganismos, vírus e bactérias, promovendo ambientes limpos e saudáveis.",
+        "image": "https://dedetizadoraprotecao.com/wp-content/uploads/2024/09/shutterstock_1950398293_1-1024x1024.webp"
+    },
+    {
+        "id": 6,
+        "sector": "sanitização",
+        "title": "Limpeza de Caixa d'água",
+        "description": "Serviço especializado em limpeza e desinfecção de caixas d'água, garantindo a remoção de sujeiras, resíduos e microrganismos, assegurando a qualidade da água consumida.",
+        "image": "https://shini.com.br/media/produtos/1000-l.png"
+    },
+    {
+        "id": 7,
+        "sector": "sanitização",
+        "title": "Limpeza de Caixa de Gordura",
+        "description": "Realização de limpeza profunda em caixas de gordura, removendo acúmulos e resíduos que podem causar entupimentos, odores e prejudicar o sistema de esgoto.",
+        "image": "https://www.krona.com.br/wp-content/uploads/2020/06/1481_Caixa-de-Gordura3.png"
+    }
+]
